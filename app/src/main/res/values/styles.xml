@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#009688</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#FF4081</item>
+    </style>
+    <style name="Diary_writeTestTheme" parent="AppTheme"></style>
+    <style name="status_style" parent="AppTheme"></style>
+    <style name="menu_lables_style">
+        <item name="android:background">@drawable/fab_label_background</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+</resources>

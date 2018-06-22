@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Diary_writeTestTheme" parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="status_style" parent="AppTheme">
+        <item name="android:statusBarColor">#009688</item>
+    </style>
+</resources>
